@@ -14,7 +14,7 @@ body
 	color: white;
 
 	/* Remove the background color to make it transparent. */
-	background-color: radial-gradient(ellipse at bottom, #372804 0%, #090a0f 100%) fixed;
+	background-color: black;
 
 	margin: 20px;
 }
